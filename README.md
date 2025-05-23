@@ -1,5 +1,20 @@
 # Adaptive Reward Design for Reinforcement Learning
 
+**Citation:** If you use this code or build upon it, please cite:
+
+```bibtex
+@inproceedings{Kwon2025AdaptiveReward,
+  title     = {Adaptive Reward Design for Reinforcement Learning},
+  author    = {Kwon, Minjae and ElSayed-Aly, Ingy and Feng, Lu},
+  booktitle = {Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI)},
+  year      = {2025},
+}
+```
+
+**Contact:** For questions or collaborations, please contact:
+
+Minjae Kwon - hbt9su@virginia.edu
+
 ## Overview
 
 This repository implements our method for **Adaptive Reward Design for Reinforcement Learning**, addressing the common challenge of sparse rewards when using Linear Temporal Logic (LTL) to specify complex tasks. While LTL provides precision, sparse rewards (e.g., feedback only on full task completion) often make it difficult for RL agents to learn effectively.
@@ -282,21 +297,6 @@ For example, my virtual environment directory is 'home/mj/anaconda3/envs/psltl/b
 
 ### Plot
 1. `results_plot`: Plot Results
-
-**Citation:** If you use this code or build upon it, please cite:
-
-```bibtex
-@inproceedings{Kwon2025AdaptiveReward,
-  title     = {Adaptive Reward Design for Reinforcement Learning},
-  author    = {Kwon, Minjae and ElSayed-Aly, Ingy and Feng, Lu},
-  booktitle = {Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI)},
-  year      = {2025},
-}
-```
-
-**Contact:** For questions or collaborations, please contact:
-
-Minjae Kwon - hbt9su@virginia.edu
 
 ## License
 
